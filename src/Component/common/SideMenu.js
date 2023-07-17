@@ -29,10 +29,10 @@ return (
           <h3 class="social-title">Follow Us</h3>
           <ul>
           
-            <li><a>Facebook</a></li>
-            <li><a >Twitter</a></li>
-            <li><a>Instagram</a></li>
-            <li><a >Linkdin</a></li>
+            <li><a className='text-white'>Facebook</a></li>
+            <li><a  className='text-white'>Twitter</a></li>
+            <li><a  className='text-white'>Instagram</a></li>
+            <li><a  className='text-white'>Linkdin</a></li>
           </ul>
         </div>
      
